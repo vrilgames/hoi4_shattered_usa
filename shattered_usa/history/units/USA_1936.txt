@@ -1,0 +1,1 @@
+﻿# Delete All USA Units, they shouldn't exist in the Shattered USA world. --vril
