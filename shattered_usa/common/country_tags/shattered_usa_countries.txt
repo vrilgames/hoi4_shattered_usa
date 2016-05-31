@@ -1,4 +1,4 @@
-# US States Mod --vril
+# Shattered USA Nations --vril
 ZAL = "countries/Alabama.txt"
 ZAK	= "countries/Alaska.txt"
 ZAZ = "countries/Arizona.txt"
@@ -23,7 +23,6 @@ ZMO = "countries/Missouri.txt"
 ZMT = "countries/Montana.txt"
 ZNE = "countries/Nebraska.txt"
 ZNV = "countries/Nevada.txt"
-ZNG = "countries/New England.txt"
 ZNJ = "countries/New Jersey.txt"
 ZNM = "countries/New Mexico.txt"
 ZNY = "countries/New York.txt"
@@ -42,7 +41,8 @@ ZVA = "countries/Virginia.txt"
 ZWA = "countries/Washington.txt"
 ZWI = "countries/Wisconsin.txt"
 ZWY = "countries/Wyoming.txt" 
-
+# ZPR = "countries/Puerto Rico.txt"
+ZNG = "countries/New England.txt"
 # ZDE = "countries/Delaware.txt"		# In-game part of Maryland
 # ZWV = "countries/West Virginia.txt"	# In-game part of Virginia
 # ZCT = "countries/Connecticut.txt"		# In-game part of New England
