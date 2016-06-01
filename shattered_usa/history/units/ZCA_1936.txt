@@ -88,25 +88,41 @@ units = {
 		start_experience_factor = 0.0
 		start_equipment_factor = 0.15
 	}
-	division = {			
-		name = "1st Infantry Division"		
-		location = 9814
-		division_template = "Infantry Division"
-		start_experience_factor = 0.2
-		start_equipment_factor = 0.15
+}
+
+#########################
+## STARTING PRODUCTION ##
+#########################
+
+instant_effect = {
+
+	add_equipment_production = {
+		equipment = {
+			type = infantry_equipment_1
+			creator = "GER"
+		}
+		requested_factories = 10
+		progress = 0.1
+		efficiency = 50
 	}
-	division = {			
-		name = "2nd Infantry Division"		
-		location = 9814
-		division_template = "Infantry Division"
-		start_experience_factor = 0.2
-		start_equipment_factor = 0.15
+
+	add_equipment_production = {
+		equipment = {
+			type = support_equipment_1
+			creator = "GER" 
+		}
+		requested_factories = 2
+		progress = 0.3
+		efficiency = 50
 	}
-	division = {			
-		name = "1st Cavalry Division"		
-		location = 9814
-		division_template = "Infantry Division"
-		start_experience_factor = 0.2
-		start_equipment_factor = 0.15
+
+	add_equipment_production = {
+		equipment = {
+			type = artillery_equipment_1
+			creator = "GER" 
+		}
+		requested_factories = 1
+		progress = 0.3
+		efficiency = 50
 	}
 }

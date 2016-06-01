@@ -5,8 +5,8 @@ OOB = "ZNM_1936"
 set_research_slots = 3
 
 add_ideas = {
-	undisturbed_isolation
-	disarmed_nation
+	civilian_economy
+	volunteer_only
 	free_trade
 	home_of_the_free
 }
@@ -52,7 +52,7 @@ set_politics = {
 		}
 	}
 	
-	ruling_party = democratic
+	ruling_party = neutrality
 	last_election = "1932.11.8"
 	election_frequency = 48
 	elections_allowed = yes
