@@ -41,7 +41,7 @@ division_template = {
 	}
 }
 division_template = {
-	name = "Cavalry Division"  	7	# 1st Cavalry Division only
+	name = "Cavalry Division"  		# 1st Cavalry Division only
 
 	regiments = {
 		cavalry = { x = 0 y = 0 }
