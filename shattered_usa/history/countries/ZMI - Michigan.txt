@@ -1,4 +1,4 @@
-﻿capital = 492
+﻿capital = 393
 
 OOB = "ZMI_1936"
 

@@ -190,7 +190,7 @@ add_ideas = {
 
 
 # DIPLOMACY
-puppet = PHI
+# puppet = PHI
 
 1939.1.1 = {
 	set_national_unity = 0.7
